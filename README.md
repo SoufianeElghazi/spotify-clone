@@ -1,5 +1,5 @@
 # Spotify App Clone  
-Link : https://weather-project-two-beta.vercel.app/
+Link : https://spotify-clone-liart-seven-98.vercel.app/
 
 ![Weather App Preview](image.png)  
 
